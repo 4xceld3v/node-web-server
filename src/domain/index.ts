@@ -9,3 +9,4 @@ export * from "./usecases/todos/update-todo.usecase";
 export * from "./usecases/todos/get-todo.usecase";
 export * from "./usecases/todos/get-todos.usecase";
 export * from "./usecases/todos/delete-todo.usecase";
+export * from "./errors/custom.error";
